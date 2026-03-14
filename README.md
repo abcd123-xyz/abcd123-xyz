@@ -68,19 +68,16 @@ Artificial Intelligence • Machine Learning • Generative AI
 ---
 
 
+
 ## 🌐 Connect
 
 <p align="center">
 <a href="https://linkedin.com/in/adrikatkumar">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:tkumaraadrika@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin,gmail" height="45"/>
 </a>
 </p>
+
+
 
 ---
 
