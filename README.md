@@ -47,23 +47,26 @@ Artificial Intelligence • Machine Learning • Generative AI
 
 ---
 
+
+---
+
 ## 📊 GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abcd123-xyz&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abcd123-xyz&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcd123-xyz&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=abcd123-xyz&theme=tokyonight&hide_border=true"/>
-</p>
+---
+
+
+
 
 ---
 
----
 
 ## 🌐 Connect
 
@@ -71,18 +74,18 @@ Artificial Intelligence • Machine Learning • Generative AI
 <a href="https://linkedin.com/in/adrikatkumar">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
+
 &nbsp;&nbsp;&nbsp;
+
 <a href="mailto:tkumaraadrika@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 </p>
 
-<p align="center">
-linkedin.com/in/adrikatkumar  
-tkumaraadrika@gmail.com
-</p>
-
 ---
+
+
+
 
 
 ---
