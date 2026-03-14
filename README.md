@@ -2,116 +2,60 @@
 <h1 align="center">Adrika T Kumar</h1>
 
 <p align="center">
-<i>Artificial Intelligence • Machine Learning • Quietly building intelligent systems</i>
+Artificial Intelligence • Machine Learning • Generative AI
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Student;Machine+Learning+Explorer;Deep+Learning+Enthusiast;Generative+AI+Learner&center=true&width=520&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Student;Machine+Learning+Explorer;Deep+Learning+Learner;Generative+AI+Enthusiast&center=true&width=450&height=40">
+</p>
+
+<p align="center">──────────── ◦ ◦ ◦ ────────────</p>
+
+<p align="center">
+<i>building systems where data becomes intuition</i>
 </p>
 
 ---
 
-## 🧠 About
+### Technologies
 
-I am a Computer Science student focused on **Artificial Intelligence and Machine Learning**, exploring how intelligent systems can shape real-world decisions.
-
-My interests include:
-
-• Machine Learning
-• Deep Learning
-• Generative AI
-• Data Structure and Algorithms
-
-
-I enjoy building systems where **data becomes insight and algorithms become intuition.**
-
----
-
-## ⚙️ Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c"/>
-</p>
-
-### 🤖 Artificial Intelligence / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/>
-</p>
-
-### 🧠 Generative AI
-
-<p>
-<img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-blueviolet?style=for-the-badge"/>
-</p>
-
-### 📊 Data Science
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge"/>
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,sklearn,git,github,vscode,jupyter"/>
 </p>
 
 ---
 
-## 🚀 Selected Work
-
-**Sentinel Vision**
-AI-powered surveillance concept designed for intelligent monitoring.
-
-**AI Based Farm Advisory System**
-Machine learning system supporting agricultural decision-making.
-
-**Diabetes Prediction Model**
-Predictive model exploring health indicators and risk analysis.
-
----
-
-## 📊 GitHub Insights
+### GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abcd123-xyz&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abcd123-xyz&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcd123-xyz&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcd123-xyz&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=abcd123-xyz&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Consistency
-
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=abcd123-xyz&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<em>
+<i>
 "Some people call it artificial intelligence.  
 I prefer to think of it as machines quietly learning the language of the universe."
-</em>
+</i>
 </p>
 
+<p align="center">
+— Adrika T Kumar
+</p>
 
+<p align="center">──────────── ◦ ◦ ◦ ────────────</p>
 
----
-
-## 🌐 Connect
-
-<p>
+<p align="center">
 <a href="https://linkedin.com/in/adrikatkumar">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 </p>
-
