@@ -63,17 +63,27 @@ Artificial Intelligence • Machine Learning • Generative AI
 
 ---
 
-## 🌐 Connect With Me
+---
 
-<p>
+## 🌐 Connect
+
+<p align="center">
 <a href="https://linkedin.com/in/adrikatkumar">
-<img src="https://img.shields.io/badge/LinkedIn-Adrika%20Kumar-blue?style=for-the-badge&logo=linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:tkumaraadrika@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-tkumaraadrika%40gmail.com-red?style=for-the-badge&logo=gmail">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 </p>
+
+<p align="center">
+linkedin.com/in/adrikatkumar  
+tkumaraadrika@gmail.com
+</p>
+
+---
+
 
 ---
 
@@ -84,8 +94,6 @@ I prefer to think of it as machines quietly learning the language of the univers
 </i>
 </p>
 
-<p align="center">
-— Adrika T Kumar
-</p>
+
 
 <p align="center">──────────── ◦ ◦ ◦ ────────────</p>
