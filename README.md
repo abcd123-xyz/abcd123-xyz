@@ -20,7 +20,8 @@ My interests include:
 • Machine Learning
 • Deep Learning
 • Generative AI
-• Data-driven problem solving
+• Data Structure and Algorithms
+
 
 I enjoy building systems where **data becomes insight and algorithms become intuition.**
 
