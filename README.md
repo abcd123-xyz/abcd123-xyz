@@ -1,28 +1,34 @@
 
-<h1 align="center">Hi 👋, I'm Adrika T Kumar</h1>
-<h3 align="center">AI / ML Student | Building Intelligent Systems</h3>
+<h1 align="center">Adrika T Kumar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Student;Machine+Learning+Engineer+in+Progress;Exploring+Deep+Learning;Building+AI+Projects;Future+AI+Researcher&center=true&width=600&height=45">
+<i>Artificial Intelligence • Machine Learning • Quietly building intelligent systems</i>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Student;Machine+Learning+Explorer;Deep+Learning+Enthusiast;Generative+AI+Learner&center=true&width=520&height=45">
 </p>
 
 ---
 
-# 🧠 About Me
+## 🧠 About
 
-🎓 CSE student specializing in **Artificial Intelligence & Machine Learning**
+I am a Computer Science student focused on **Artificial Intelligence and Machine Learning**, exploring how intelligent systems can shape real-world decisions.
 
-🤖 Interested in **AI applications in healthcare and agriculture**
+My interests include:
 
-🚀 Building intelligent systems and real-world ML applications
+• Machine Learning
+• Deep Learning
+• Generative AI
+• Data-driven problem solving
 
-💡 Currently exploring **Machine Learning, Deep Learning and Generative AI**
+I enjoy building systems where **data becomes insight and algorithms become intuition.**
 
 ---
 
-# 🚀 Tech Stack
+## ⚙️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c"/>
@@ -58,20 +64,20 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Selected Work
 
-🔹 **Sentinel Vision**  
-AI-powered surveillance system for intelligent monitoring.
+**Sentinel Vision**
+AI-powered surveillance concept designed for intelligent monitoring.
 
-🔹 **AI Based Farm Advisory System**  
-Machine learning system helping farmers with crop recommendations.
+**AI Based Farm Advisory System**
+Machine learning system supporting agricultural decision-making.
 
-🔹 **Diabetes Prediction Model**  
-ML model predicting diabetes risk using health attributes.
+**Diabetes Prediction Model**
+Predictive model exploring health indicators and risk analysis.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abcd123-xyz&show_icons=true&theme=tokyonight"/>
@@ -83,15 +89,26 @@ ML model predicting diabetes risk using health attributes.
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 Consistency
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=abcd123-xyz&theme=tokyonight"/>
 </p>
 
+<p align="center">
+<em>
+"Some people call it artificial intelligence.  
+I prefer to think of it as machines quietly learning the language of the universe."
+</em>
+</p>
+
+<p align="center">
+— <b>Adrika T Kumar</b>
+</p>
+
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect
 
 <p>
 <a href="https://linkedin.com/in/adrikatkumar">
@@ -99,26 +116,3 @@ ML model predicting diabetes risk using health attributes.
 </a>
 </p>
 
----
-
-
----
-
-<h2 align="center">💡 A Thought That Drives Machine Learning</h2>
-
-<p align="center">
-<i>
-"Machine learning is the field of study that gives computers the ability  
-to learn without being explicitly programmed."
-</i>
-</p>
-
-<p align="center">
-<b>— Arthur Samuel, 1959</b>
-</p>
-
-<p align="center">
-<sub>Where data becomes experience and algorithms become intelligence.</sub>
-</p>
-
----
