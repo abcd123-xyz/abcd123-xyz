@@ -14,7 +14,10 @@ Artificial Intelligence • Machine Learning • Generative AI
 <p align="center">
 <i>building systems where data becomes intuition</i>
 </p>
-## 🧠 About
+
+
+---
+About
 
 AI/ML student exploring intelligent systems, data-driven decision making,  
 and the intersection of **Machine Learning, Deep Learning, and Generative AI**.
