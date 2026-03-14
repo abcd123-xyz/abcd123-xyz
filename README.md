@@ -101,12 +101,24 @@ ML model predicting diabetes risk using health attributes.
 
 ---
 
-# 💬 Machine Learning Quote
+
+---
+
+<h2 align="center">💡 A Thought That Drives Machine Learning</h2>
 
 <p align="center">
-
-"Machine learning is the field of study that gives computers the ability to learn without being explicitly programmed."
-
-— **Arthur Samuel (1959)**
-
+<i>
+"Machine learning is the field of study that gives computers the ability  
+to learn without being explicitly programmed."
+</i>
 </p>
+
+<p align="center">
+<b>— Arthur Samuel, 1959</b>
+</p>
+
+<p align="center">
+<sub>Where data becomes experience and algorithms become intelligence.</sub>
+</p>
+
+---
