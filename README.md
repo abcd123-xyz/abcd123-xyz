@@ -102,9 +102,7 @@ I prefer to think of it as machines quietly learning the language of the univers
 </em>
 </p>
 
-<p align="center">
-— <b>Adrika T Kumar</b>
-</p>
+
 
 ---
 
