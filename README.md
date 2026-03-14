@@ -17,18 +17,40 @@ Artificial Intelligence • Machine Learning • Generative AI
 
 ---
 
-### Technologies
+## ⚙️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,sklearn,git,github,vscode,jupyter"/>
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c"/>
+</p>
+
+### Artificial Intelligence / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/>
+</p>
+
+### Data Science
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge"/>
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
 </p>
 
 ---
 
-### GitHub
+## 📊 GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abcd123-xyz&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abcd123-xyz&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -37,6 +59,20 @@ Artificial Intelligence • Machine Learning • Generative AI
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=abcd123-xyz&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://linkedin.com/in/adrikatkumar">
+<img src="https://img.shields.io/badge/LinkedIn-Adrika%20Kumar-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:tkumaraadrika@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-tkumaraadrika%40gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
 </p>
 
 ---
@@ -53,9 +89,3 @@ I prefer to think of it as machines quietly learning the language of the univers
 </p>
 
 <p align="center">──────────── ◦ ◦ ◦ ────────────</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/adrikatkumar">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-</p>
