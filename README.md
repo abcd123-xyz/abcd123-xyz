@@ -9,7 +9,6 @@ Artificial Intelligence • Machine Learning • Generative AI
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Student;Machine+Learning+Explorer;Deep+Learning+Learner;Generative+AI+Enthusiast&center=true&width=450&height=40">
 </p>
 
-<p align="center">──────────── ◦ ◦ ◦ ────────────</p>
 
 <p align="center">
 <i>building systems where data becomes intuition</i>
@@ -21,8 +20,6 @@ About
 
 AI/ML student exploring intelligent systems, data-driven decision making,  
 and the intersection of **Machine Learning, Deep Learning, and Generative AI**.
-
----
 
 ---
 
