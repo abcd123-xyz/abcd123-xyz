@@ -2,34 +2,46 @@
 <h1 align="center">Adrika T Kumar</h1>
 
 <p align="center">
-Artificial Intelligence • Machine Learning • Generative AI
+Artificial Intelligence • Machine Learning • Data Structures & Algorithms
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Student;Machine+Learning+Explorer;Deep+Learning+Learner;Generative+AI+Enthusiast&center=true&width=450&height=40">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Machine+Learning+Student;DSA+Problem+Solver;Exploring+Deep+Learning;Building+Intelligent+Systems&center=true&width=480&height=40">
 </p>
 
+<p align="center">──────────── ◦ ◦ ◦ ────────────</p>
 
-<p align="center">
-<i>building systems where data becomes intuition</i>
-</p>
+## 🧠 About Me
 
+Computer Science student specializing in **Artificial Intelligence and Machine Learning**.
 
----
-About
+I enjoy working at the intersection of **data, algorithms, and intelligent systems**, exploring how machine learning models can solve meaningful real-world problems.
 
-AI/ML student exploring intelligent systems, data-driven decision making,  
-and the intersection of **Machine Learning, Deep Learning, and Generative AI**.
+Currently building projects and strengthening my foundation in **Data Structures & Algorithms, Machine Learning, and Generative AI**.
 
 ---
 
-## ⚙️ Tech Stack
+## ⭐ Core Strengths
 
-### Programming Languages
+• Analytical problem solving  
+• Strong foundation in **Data Structures & Algorithms**  
+• Designing machine learning solutions  
+• Translating ideas into working systems  
+• Continuous learning and experimentation
+
+---
+
+## ⚙️ Technical Expertise
+
+### Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c"/>
 </p>
+
+### Data Structures & Algorithms
+
+Arrays • Hash Maps • Recursion • Dynamic Programming • Graph Algorithms • Problem Solving
 
 ### Artificial Intelligence / Machine Learning
 
@@ -45,7 +57,7 @@ and the intersection of **Machine Learning, Deep Learning, and Generative AI**.
 <img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge"/>
 </p>
 
-### Tools & Technologies
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
@@ -53,43 +65,12 @@ and the intersection of **Machine Learning, Deep Learning, and Generative AI**.
 
 ---
 
+## 🚀 Current Focus
 
----
-
-## 📊 GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abcd123-xyz&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcd123-xyz&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-
-
-
----
-
-
-
-## 🌐 Connect
-
-<p align="center">
-<a href="https://linkedin.com/in/adrikatkumar">
-<img src="https://skillicons.dev/icons?i=linkedin,gmail" height="45"/>
-</a>
-</p>
-
-
-
----
-
-
-
-
+• Strengthening **Data Structures & Algorithms**  
+• Building **AI-powered applications**  
+• Exploring **Deep Learning architectures**  
+• Experimenting with **Generative AI systems**
 
 ---
 
@@ -103,3 +84,15 @@ I prefer to think of it as machines quietly learning the language of the univers
 
 
 <p align="center">──────────── ◦ ◦ ◦ ────────────</p>
+
+## 🌐 Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/adrikatkumar">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:tkumaraadrika@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
